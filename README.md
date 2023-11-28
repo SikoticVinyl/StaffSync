@@ -39,7 +39,7 @@ This Challenge will require a video submission. Refer to the [Fullstack Blog Vid
 
 Try to add some additional functionality to your application, such as the ability to do the following:
 
-* Delete departments, roles, and employees.
+* Delete  roles,
 
 
 
