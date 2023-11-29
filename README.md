@@ -52,4 +52,4 @@ npm start
 
 ## Usage
 
-Please see this video for an example walktrhough on how the app interacts and can be used: 
+Please see this video for an example walktrhough on how the app interacts and can be used: https://www.youtube.com/watch?v=TLx2vBaX-iA
