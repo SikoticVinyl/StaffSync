@@ -1,4 +1,4 @@
-# Tracker
+# StaffSync
 
 An employee database manager in a command line application.
 
